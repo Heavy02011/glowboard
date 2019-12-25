@@ -1,3 +1,5 @@
+# code completly taken from https://starthardware.org/wie-baut-man-ein-glowboard-mit-arduino/ Thx!!
+
 #include <Adafruit_NeoPixel.h>
 #include <avr/power.h>
 
